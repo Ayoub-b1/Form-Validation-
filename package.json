@@ -1,0 +1,22 @@
+{
+  "name": "verification",
+  "version": "1.0.0",
+  "description": "this package allow you to use simple methodes to easily do login or sign up verifications using defined methods",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "varification",
+    "login",
+    "signup",
+    "email",
+    "test",
+    "password"
+  ],
+  "author": "Ayoub-b1",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
